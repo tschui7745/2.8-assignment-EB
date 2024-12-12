@@ -1,1 +1,1 @@
-# 2.8-assignment-EB
+zip ../python.zip -r * .[^.]*
